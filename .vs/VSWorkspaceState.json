@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TournamentTracker",
+    "\\TournamentTracker\\TrackerLibrary",
+    "\\TournamentTracker\\TrackerLibrary\\bin\\Debug",
+    "\\TournamentTracker\\TrackerLibrary\\bin\\Release",
+    "\\TournamentTracker\\TrackerLibrary\\obj",
+    "\\TournamentTracker\\TrackerLibrary\\obj\\Debug",
+    "\\TournamentTracker\\TrackerLibrary\\obj\\Release"
+  ],
+  "SelectedNode": "\\TournamentTracker\\TournamentTracker.sln",
+  "PreviewInSolutionExplorer": false
+}
