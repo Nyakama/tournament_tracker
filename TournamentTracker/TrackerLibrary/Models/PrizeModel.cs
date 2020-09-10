@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrackerLibrary
+namespace TrackerLibrary.Models
 {
     /// <summary>
     /// Represents what the prize is for the given place.
@@ -43,7 +43,7 @@ namespace TrackerLibrary
             PlaceName = placeName;
 
             int placeNumberValue = 0;
-            int.TryParse(placeName, out placeNumberValue);
+            int.TryParse(placeNumber, out placeNumberValue);
             PlaceNumber = placeNumberValue;
 
             decimal prizeAmountValue = 0;

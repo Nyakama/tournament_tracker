@@ -4,3 +4,6 @@ C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\bin\Debug\Track
 C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
 C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
 C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\workspace\tournament_tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete

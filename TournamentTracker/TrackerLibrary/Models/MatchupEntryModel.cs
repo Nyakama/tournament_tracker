@@ -4,25 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrackerLibrary
+namespace TrackerLibrary.Models
 {
-    /// <summary>
-    /// Represents one team in a matchup.
-    /// </summary>
-    public class MatchupModel
+    public class MatchupEntryModel
     {
         /// <summary>
-        /// Represents one team in the matchup.
+        /// Represents one team in the matchup
         /// </summary>
-        public List<MatchupEntryModel> Entries { get; set; } = new List<MatchupEntryModel>();
+        public TeamModel TeamCompeting { get; set; }
         /// <summary>
         /// Represents the score for this particular team.
         /// </summary>
-        public TeamModel Winner { get; set; }
+        public double Score { get; set; }
         /// <summary>
         /// Represents the matchup that this team came
         /// from as the winner.
         /// </summary>
-        public int MatchupRound { get; set; }
+        public MatchupModel ParentMatchup { get; set; }
     }
 }
